@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![rajyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajyan&show_icons=true)](https://github.com/rajyan/github-readme-stats)
+https://github-readme-stats.vercel.app/api/top-langs/?username=rajyan&layout=compact
